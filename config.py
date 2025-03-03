@@ -4,7 +4,7 @@ PORT: int = 8000
 
 # Leave empty for auto-detection
 # Example values: "en", "de" etc.
-LANGUAGE: str = "de"
+LANGUAGE: str = ""
 
 # Available models and their requirements:
 # https://github.com/openai/whisper/blob/main/README.md#available-models-and-languages
