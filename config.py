@@ -19,4 +19,4 @@ AUDIO_DIR: str = r"C:\path\to\the\sharex_data\folder"
 # Using CUDA will make make transcription significantly faster
 # If you have NVIDIA GPU reading the README.md
 # CUDA Installation Guide is highly recommended
-USE_CUDA = True
+USE_CUDA = False
